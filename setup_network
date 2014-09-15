@@ -1,0 +1,17 @@
+#!/usr/bin/python
+
+import system
+
+print "Did you want to restart all network cards? (Y and N)"
+
+restart = raw_input()
+
+print restart
+
+if restart == "Y":
+	
+
+class layout:
+	def layout():
+		print something
+

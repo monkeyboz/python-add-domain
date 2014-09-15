@@ -1,0 +1,4 @@
+#!/usr/bin/pythclass layout:
+	def layout():
+		print something
+
